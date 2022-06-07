@@ -58,3 +58,36 @@ Passo 6.1 - Adendo: o dono não vai conseguir aceitar arquivos que deem conflito
 
 ## Baixando o repositório para a sua máquina, editando e enviando de volta para o servidor do GitHub:
 
+Para baixar algum repositório em uma máquina precisamos criar uma pasta chamada "GitHub" e ter o software Git Bash
+
+Passo 1 - Na pasta criada clique com o botão direito do mouse e clique em "Git Bash Here" isso deve abrir um painel do Git
+
+Passo 2 - Escreva "git status" e clique em enter para confirmar que o painel não tem nenhum trabalho rodando
+
+Passo 3 - Escreva "git clone link" e clique em enter, mas você não vai colocar literalmente "link"
+
+Passo 3.1 - O link que tu deve colocar tu vai achar clicando em "Code", que está ao lado de "Add file", e clicar para copiar o link em HTTPS
+
+Passo 3.3 - Para colar o link segure o botão shift e depois o Insert e depois de enter, tu deve notar que aparecera um documento na pasta "GitHub", não se preocupe ele só vai ficar lá enquanto estivermos usando ele
+
+Passo 4 - agora com algum software de sua preferência tu pode abrir e editar o repositório, eu recomendo o Visual Studio Code, e tambem é importante dar um "cd nome_do_repositório" para indicar o painel que os comandos a seguir devem ser dados em função do seu repositório (nome_do_repositório é pessoal seu)
+
+Passo 4.1 - Lembre-se que você está editando na sua máquina, logo se você não fizer nada o repositório online não será modificado
+
+Passo 5 - Após editar temos que fazer o mesmo passo que online, o passo de dar um "Commit", só que no Git Bash você deve escrever "git commit -m "titulo da edição"" (-m = permite tu criar uma mensagem para o commit)
+
+Passo 5.1 - Para salvar suas modificações no Visual Studio Code apenas de um ctrl+S
+
+Passo 5.2 - o titulo da edição é pessoal, após dar enter no passo commit, tu deve dar "git status" para ver se o painel terminou de rodar os seus pedidos
+
+Passo 5.3 - Se tu modificou algum documento o "git status" vai retornar "modified: nome_do_repositório" na cor vermelha, isso significa que ele identificou uma moficação nesse repositorio
+
+Passo 6 - Para mandar o painel adicional a modificação feita tu deve escrever "git add ."(que vai adicionar todas as modificações aos seus respectivos documentos)
+
+Passo 6.1 - Para verificar se tudo está ocorrendo de forma certa, dê um "git status" e ele deve retornar "modified: nome_do_repositório" na cor verde, isso significa que tudo ocorreu com sucesso
+
+Passo 6.2 - Para confirmar a modificação é necessário dar um "git commit -m"titulo da edição""
+
+Passo 6.3 - E por fim um "git push" para mandar o documento atualizado para o servidor da GitHub
+
+Passo 7 - Agora você pode verificar no GitHub online que o documento foi atualizado com sucesso
