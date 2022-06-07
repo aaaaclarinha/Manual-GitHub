@@ -40,4 +40,21 @@ Passo 5 - Criando uma nova aba/pasta/"File" ou como você quiser chamar: clique 
 
 Passo 5.1 - Clique em "Create new file" para criar e a página irá atualizar e tu devera dar um nome para a nova pasta e tu pode usar como pretender essa nova "file"
 
-## Baixando um repositorio de outro usuario para colaborar ou usar no meu trabalho;
+## Baixando um repositório de outro usuário para colaborar;
+
+Passo 1 - primeiro escolha um repositório ou tenha um link de repositório.
+
+Passo 2 - Abra o link ou o repositório
+
+Passo 3 - Clique em "Fork" e a pagina irá atualizar, tu pode alterar o nome do repositório e adicionar uma descrição, depois disso clique em "Create fork"
+
+Passo 4 - Ai vai abrir o "Fork" feito, esse Frok é semelhante a uma cópia do repositório original, para colaborar escolha alguma das pastas ou file e edite algo dentro delas.
+
+Passo 5 - Após editar faça o "Commit changes" ou "Propose changes" para confirmar sua alteração, clique a aba "Pull requests" que séria a edição feita por você para o arquivo, ali você pode criar e enviar o seu comentário sobre algo clicando em "New pull request" ou comparar com outros comentários e enviar o seu comentario clicando em "Compare e pull request"
+
+Passo 6 - Agora basta o dono do arquivo aceitar as mudanças feitas na sua aba do "pull request"
+
+Passo 6.1 - Adendo: o dono não vai conseguir aceitar arquivos que deem conflito na hora de atualizar o repositório original, então sempre se lembre de editar o repositório mais recente
+
+## Baixando o repositório para a sua máquina, editando e enviando de volta para o servidor do GitHub:
+
