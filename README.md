@@ -36,5 +36,8 @@ Passo 4.2.1 - Para confirmar sua edição e commit tu deves clicar em "Commit ch
 
 Passo 4.3 - Extra do "Commit": ele também serve como uma máquina do tempo, clicando no símbolo do relógio com uma seta no sentido anti-horário (o histórico) tu podes ver a antes e depois da sua edição.
 
+Passo 5 - Criando uma nova aba/pasta/"File" ou como você quiser chamar: clique em "Add file", esse bloco fica em baixo de "Insights" no começo da página
+
+Passo 5.1 - Clique em "Create new file" para criar e a página irá atualizar e tu devera dar um nome para a nova pasta e tu pode usar como pretender essa nova "file"
 
 ## Baixando um repositorio de outro usuario para colaborar ou usar no meu trabalho;
