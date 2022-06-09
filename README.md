@@ -10,8 +10,13 @@ Como usar o GitHub?
 
 Se você está aqui, tu já criaste uma conta nesse site e vamos lá.
 
-## Criando e editando meu primeiro repositório;
+<h2> Sumário </h2>
+<li> Criando e editando meu primeiro repositóri; </li>
+<li> Baixando um  repositório de outro usuário  para colaborador; </li>
+<li> Baixando o repositório para sua máquina, editando e enviando de volta para o servidor do GitHub; </li>
 
+
+## Criando e editando meu primeiro Repositório;
 Passo 1 - Inicio: Vá no seu perfil e clique que "Repositories".
 
 Passo 2 - Criando um repositório: clique em "New" e de um nome para o repositório em "Repository name", se você quiser tu podes falar um pouco sobre o repositório em "Description".
